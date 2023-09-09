@@ -1,10 +1,9 @@
-Certainly! Here's a README for your QR Code Generator React application:
-
----
-
 # QR Code Generator
 
 This is a simple React application that allows you to generate QR codes from URLs. You can enter a URL, click the "Generate" button, and a QR code will be created for you. You can also download the generated QR code as a PNG image.
+
+## live page
+https://qr-code-generator-one-pied.vercel.app/
 
 ## Prerequisites
 
@@ -91,9 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project uses the [qrcode](https://www.npmjs.com/package/qrcode) library for generating QR codes.
 - Created with ❤️ by Dearborn Adeyeni.
-
-Feel free to customize and enhance the application according to your needs!
-
----
-
-Make sure to replace `"https://github.com/your-username/qr-code-generator.git"` with the actual URL of your GitHub repository in the cloning instructions. Additionally, replace `[Your Name]` with your name or the name of your team if applicable.
